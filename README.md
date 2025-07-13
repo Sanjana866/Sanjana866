@@ -4,4 +4,4 @@ I'm Sanjana, a full-stack developer and CS undergraduate based in India.
 
 I like building creative and useful apps, with keen interest in pixel-perfect visuals.
 
-Outside of code and Figma, reading novels with coffee during thunderstorms captivate me.
+When I'm not coding or designing in Figma, you'll find me lost in a novel, coffee in hand, while thunderstorms roll outside.
